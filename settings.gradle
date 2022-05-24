@@ -1,0 +1,5 @@
+rootProject.name = 'GradleTest'
+include 'db'
+include 'api'
+include 'service'
+
